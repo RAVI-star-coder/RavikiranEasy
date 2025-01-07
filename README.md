@@ -1,1 +1,1 @@
-Tis File must always be present in main branch.
+This file must always be present in main branch.
