@@ -1,6 +1,0 @@
-#########################################################################################
-
-Welcome Back! Get ready to take a tour of GIT And GITHUB. Practise is the only option to
-help you for remembering GIT & GITHUB commands. 
-
-#########################################################################################
